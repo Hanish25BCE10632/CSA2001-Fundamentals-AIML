@@ -197,6 +197,7 @@ The model generates:
 * Training graphs
 
 The model achieved its best validation performance at Epoch 25, with stable improvements across all evaluation metrics.
+These outputs demonstrate the model’s ability to perform pixel-level classification and generalize to unseen data.
 
 📁 Output directory:
 
@@ -239,7 +240,12 @@ predictions/
 
 ## Conclusion
 
-This project demonstrates how **AI and Computer Vision** can be used for real-world scene understanding.
-The model successfully segments off-road environments and provides meaningful visual outputs.
+This project demonstrates the application of Artificial Intelligence and Computer Vision in real-world scene understanding tasks.
+
+The model successfully performs semantic segmentation on off-road images by classifying each pixel into meaningful categories.
+
+Through experimentation with different training epochs, it was observed that increasing epochs leads to gradual improvement, but eventually results in convergence.
+
+Overall, this project highlights a complete end-to-end AI pipeline including training, evaluation, analysis, and visualization.
 
 ---
