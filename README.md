@@ -1,6 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-orange)
+
 # CSA2001 - Fundamentals in AI & ML
 
 ## BYOP Project – Offroad Semantic Segmentation using DINOv2
+A complete end-to-end semantic segmentation pipeline using deep learning and DINOv2 backbone for off-road scene understanding.
 
 ---
 
@@ -13,6 +17,11 @@
 * **Branch:** Computer Science and Engineering
 * **Year:** First Year
 * **Date:** 22 March 2026
+
+---
+
+Note :- Note: The dataset is not included in this repository due to size limitations. 
+Please place the dataset in the specified folder structure before running the code.
 
 ---
 
