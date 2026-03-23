@@ -161,7 +161,11 @@ The best performance was achieved at Epoch 25, indicating stable convergence wit
 
 ## Observation
 
-Increasing the number of epochs from 10 to 25 resulted in **marginal improvement**, indicating that the model had already converged.
+Increasing the number of epochs from 10 to 25 resulted in a gradual improvement in performance, particularly in IoU and loss reduction.
+
+However, the improvement was relatively small, indicating that the model had already started to converge after early epochs.
+
+The training and validation metrics followed similar trends, suggesting that overfitting was minimal and generalization was stable.
 
 ---
 
