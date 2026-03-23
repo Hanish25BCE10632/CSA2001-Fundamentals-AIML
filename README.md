@@ -20,7 +20,7 @@ A complete end-to-end semantic segmentation pipeline using deep learning and DIN
 
 ---
 
-Note :- Note: The dataset is not included in this repository due to size limitations. 
+Note: The dataset is not included in this repository due to size limitations. 
 Please place the dataset in the specified folder structure before running the code.
 
 ---
