@@ -143,6 +143,22 @@ python visualize.py
 
 ---
 
+## Detailed Training Insights
+
+The model was trained for 25 epochs and showed consistent improvement in performance.
+
+- Initial Val IoU (Epoch 1): ~0.21
+- Final Val IoU (Epoch 25): ~0.326
+
+- Training Loss reduced from ~1.36 to ~0.80
+- Validation Loss reduced from ~1.10 to ~0.80
+
+This shows that the model effectively learned meaningful features over time.
+
+The best performance was achieved at Epoch 25, indicating stable convergence without overfitting.
+
+---
+
 ## Observation
 
 Increasing the number of epochs from 10 to 25 resulted in **marginal improvement**, indicating that the model had already converged.
