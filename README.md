@@ -169,6 +169,16 @@ The training and validation metrics followed similar trends, suggesting that ove
 
 ---
 
+## Training Analysis
+
+- The model showed steady learning across epochs
+- Loss decreased consistently → indicates proper optimization
+- IoU increased gradually → better segmentation quality
+- No sudden spikes → stable training
+- Similar train & val metrics → good generalization
+
+---
+
 ## Evaluation Metrics
 
 * **IoU (Intersection over Union)**
@@ -185,6 +195,8 @@ The model generates:
 * Side-by-side comparisons
 * Evaluation metrics
 * Training graphs
+
+The model achieved its best validation performance at Epoch 25, with stable improvements across all evaluation metrics.
 
 📁 Output directory:
 
