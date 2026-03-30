@@ -16,7 +16,7 @@ A complete end-to-end semantic segmentation pipeline using deep learning and DIN
 * **Course Title:** Fundamentals in AI and ML
 * **Branch:** Computer Science and Engineering
 * **Year:** First Year
-* **Date:** 22 March 2026
+* **Date:** 30 March 2026
 
 ---
 
